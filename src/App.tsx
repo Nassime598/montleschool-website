@@ -279,8 +279,8 @@ function App() {
               <ul className="space-y-2 text-gray-400">
                 <li>123 Education Street</li>
                 <li>Cape Town, South Africa</li>
-                <li>info@montleschool.co.za</li>
-                <li>+27 123 456 789</li>
+                <li>info@montleschool.com</li>
+                <li>+27 659705600</li>
               </ul>
             </div>
             <div>
